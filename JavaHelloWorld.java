@@ -4,6 +4,6 @@ public class JavaHelloWorld
   {
     System.out.println("Java Hello World");
     System.out.println("Hello again");
-    System.out.println("Hello again Monday 8-02-2016 13:05 CET");
+    System.out.println("Hello again Monday 8-02-2016 14:00 CET");
   }
 }
